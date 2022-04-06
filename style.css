@@ -1,0 +1,22 @@
+/*
+Theme Name: Photo Showroom Theme
+Author: Thomas B. M. Hansen
+Description: Theme for my small photo show room
+*/
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+p {
+    font-style: italic;
+}
+
+img {
+    max-width: 500px;
+}
+
